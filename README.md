@@ -20,7 +20,7 @@ const atrium = new Atrium(
   } catch (err) {
   }
 ```
-- Create/add user with keycode and access level (currently defaulted to  100)
+- Create/add user with keycode and access level (currently defaulted to  1)
 ```javascript
   try {
     atrium.login([
