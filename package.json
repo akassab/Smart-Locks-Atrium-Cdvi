@@ -1,0 +1,20 @@
+{
+  "name": "http-atrium-cdvi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayman Kassab",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "crypto-js": "^4.0.0",
+    "debug": "^4.1.1",
+    "got": "^7.1.0",
+    "set-cookie-parser": "^2.4.6",
+    "superagent": "^5.2.2",
+    "xml2js": "^0.4.23"
+  }
+}
