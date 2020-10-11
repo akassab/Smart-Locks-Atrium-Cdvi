@@ -1,4 +1,4 @@
-# smart-locks-atrium-cdvi
+# Smart-Locks-Atrium-Cdvi
 Communicates with Atrium CDVI smart locks in http://storage.squareremoteaccess.com/#/ by running GET and POST requests. Handles setting cookies, and rc4 encryption needed to access portal.
 
 ## Functions and Usage
